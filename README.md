@@ -92,8 +92,8 @@
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=3 align="center" valign=middle>GAListener</td>
 		<td align="left" bgcolor="#CCCCCC"><br></td>
 		<td align="left" bgcolor="#808080"><br></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=2 align="center" valign=middle bgcolor="#FFCC00">empty</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" bgcolor="#99FF66">done or works</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=2 align="center" valign=middle bgcolor="#FF3333">Does not work</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" bgcolor="#FF3333">Does not work</td>
 		<td align="left" bgcolor="#808080"><br></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" bgcolor="#0084D1">server offline</td>
 		<td align="left" bgcolor="#808080"><br></td>
@@ -203,7 +203,7 @@
 		<td align="left" bgcolor="#CCCCCC"><br></td>
 		<td align="left" bgcolor="#808080"><br></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=2 align="center" valign=middle bgcolor="#EEEEEE">1.7.9</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" bgcolor="#99FF66">done or works</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" bgcolor="#FF3333">Does not work</td>
 		<td align="left" bgcolor="#808080"><br></td>
 		<td align="left"><br></td>
 		<td align="left" bgcolor="#808080"><br></td>
@@ -214,7 +214,7 @@
 		<td align="left" bgcolor="#CCCCCC"><br></td>
 		<td align="left" bgcolor="#808080"><br></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=2 align="center" valign=middle bgcolor="#EEEEEE">1.12</td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" bgcolor="#99FF66">done or works</td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" bgcolor="#FF3333">Does not work</td>
 		<td align="left" bgcolor="#808080"><br></td>
 		<td align="left"><br></td>
 		<td align="left" bgcolor="#808080"><br></td>
